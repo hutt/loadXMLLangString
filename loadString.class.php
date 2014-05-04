@@ -4,7 +4,7 @@
  * @author Jannis Hutt
 */
 
-class String{
+class loadLangString{
 
 	public function loadString($lang, $id){
 	
