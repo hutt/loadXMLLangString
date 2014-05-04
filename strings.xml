@@ -1,0 +1,10 @@
+<xml>
+<strings lang="de">
+    <string id="heading">Willkommen!</string>
+    <string id="text">Schön, dich zu sehen!</string>
+</strings>
+<strings lang="en">
+    <string id="heading">Welcome!</string>
+    <string id="text">Nice to see you!</string>
+</strings>
+</xml>
