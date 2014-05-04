@@ -22,7 +22,7 @@ This is a little PHP class to load Strings from a XML file depending on the visi
 ```PHP
 <?php
 require("loadStrings.class.php");
-$string = new String;
+$string = new loadLangString;
 ?>
 <!Doctype html>
 <html>
